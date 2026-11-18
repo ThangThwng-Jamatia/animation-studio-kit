@@ -1,0 +1,6 @@
+.env.local
+.env
+node_modules
+_engine/public/jobs
+out
+.DS_Store
